@@ -1,2 +1,3 @@
 # myfirst-repo
-This is my very fitst repository. And i'm exited to begen my learnings
+This is my very first repository. And I'm excited to begin my learning.
+Writer = Junior Dev Shahrukh Momin.
